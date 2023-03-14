@@ -1,6 +1,6 @@
 # DHDRL
 
-The code for ICC paper: Distributed Two-tier DRL Framework for Cell-Free Network: Association, Beamforming and Power Allocation, submitted in 2023 ICC
+The code for ICC paper: Distributed Two-tier DRL Framework for Cell-Free Network: Association, Beamforming and Power Allocation, accepted in 2023 ICC
 
 
 For qucikly show the figure, you can run the fig_process.py directly
@@ -11,4 +11,4 @@ Kaiwen Yu, Gang Wu, Shaoqian Li, GeoffreyYe Li. Local Observations-Based Energy-
 
 Kaiwen Yu, Chonghao Zhao, Gang Wu, Geoffrey Ye Li. Distributed Two-tier DRL Framework for Cell-Free Network: Association, Beamforming and Power Allocation. 2023 ICC. [Accpected]
 
-Any use of the codes should explicitly cite the aforementioned paper.
+For any use of the codes, please explicitly cite the aforementioned papers.
